@@ -1,0 +1,6 @@
+{
+  "name": "BiblioTech - Gestion de Bibliothèque Universitaire",
+  "description": "Application web épurée et moderne de gestion des emprunts, réservations et accès pour bibliothèque universitaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
